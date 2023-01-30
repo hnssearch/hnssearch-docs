@@ -1,0 +1,6 @@
+site_name: HNSSearch
+site_url: "https://dev.hnssearch.io"
+theme: readthedocs
+nav:
+    - Home: index.md
+    - About: about.md
