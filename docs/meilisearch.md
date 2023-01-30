@@ -1,0 +1,3 @@
+# Meilisearch
+
+Coming soon.

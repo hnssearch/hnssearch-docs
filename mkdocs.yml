@@ -4,3 +4,6 @@ site_url: "https://dev.hnssearch.io"
 nav:
     - Home: index.md
     - About: about.md
+    - LINDA: linda.md
+    - Meilisearch: meilisearch.md
+    - Handshake: handshake.md
