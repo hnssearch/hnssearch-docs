@@ -3,6 +3,7 @@ site_url: "https://dev.hnssearch.io"
 #theme: readthedocs
 nav:
     - Home: index.md
+    - Contribute: contribute.md
     - About: about.md
     - LINDA: linda.md
     - Meilisearch: meilisearch.md
