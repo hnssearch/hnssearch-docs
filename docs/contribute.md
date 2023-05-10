@@ -34,6 +34,7 @@ If you appreciate the work done by the HNSSearch team, consider leaving a donati
 Donations are always very much appreciated and will help fund the development of the search engine. 
 
 * HNS: hs1qyj49c2kcvtp96n9jcwpq6tz8gus09al0u3486c
+* BTC: bc1qgksfav74f3lpcncdn3xstcsfazjhhse43n75r5
 * ETH: 0x7b4f10655Ea1614111041F8128A2b97a7F664777
 * AKT: akash1jweqx37pdssvt6g5ltcfw466l3a8u9qrt449z9
 
